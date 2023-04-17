@@ -122,49 +122,49 @@ article h2{
 }
 .marca2{
     background-image: url(./iconos/hummel.png);
-    background-size: cover;
+    background-size: 70% 150%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca3{
     background-image: url(./iconos/kappa.png);
-    background-size: cover;
+    background-size: 80% 180%;;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca4{
     background-image: url(./iconos/Majid.png);
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca5{
-    background-image: url(./iconos/Marathon.png);
+    background-image: url(./iconos/puma.png);
     background-size: cover;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca6{
     background-image: url(./iconos/newbalance.png);
-    background-size: cover;
+    background-size: 80% 200%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca7{
     background-image: url(./iconos/One.png);
-    background-size: cover;
+    background-size: 100% 95%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca8{
-    background-image: url(./iconos/puma.png);
+    background-image: url(./iconos/Marathon.png);
     background-size: cover;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
 .marca9{
     background-image: url(./iconos/adidas.png);
-    background-size: cover;
+    background-size: 80% 190%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
