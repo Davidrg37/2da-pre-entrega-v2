@@ -8,12 +8,12 @@ background-color: rgb(227, 205, 11);
 }
 @font-face {
     font-family: Arabica;
-    src:url(Font/Arabica.ttf);
+    src:url(font/Arabica.ttf);
     font-style: normal;
 }
 @font-face{
     font-family: Arabela;
-    src: url(Font/Arabela.ttf);
+    src: url(font/Arabela.ttf);
     font-style: normal;
 }
 header{
