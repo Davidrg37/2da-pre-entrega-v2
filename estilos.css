@@ -90,10 +90,12 @@ article h2{
 .GruposAD a{
     color: rgba(158, 0, 0, 0.895);
     text-decoration: none;
+    text-shadow: 1px 1px 2px rgb(9, 9, 8), 0 0 5rem rgb(10, 1, 1), 0 0 0.2em rgb(17, 2, 2);
 }
 .GruposEH a{
     color: rgba(158, 0, 0, 0.895);
     text-decoration: none;
+    text-shadow: 1px 1px 2px rgb(9, 9, 8), 0 0 5rem rgb(10, 1, 1), 0 0 0.2em rgb(17, 2, 2);
 }
 .GruposAD a:hover{
     background-color: rgb(225, 255, 0);
@@ -160,7 +162,7 @@ article h2{
 }
 .marca8{
     background-image: url(./iconos/Marathon.png);
-    background-size: cover;
+    background-size: 100% 80%;
     background-position: center;
     border: 5px solid rgb(187, 9, 9);
 }
